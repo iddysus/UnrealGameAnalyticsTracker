@@ -22,3 +22,5 @@ This tool tracks and visualizes in-game performance metrics such as time played 
    ```
 
 2. The tool will generate random player data, save it to a `player_data.json` file, and display a graph of the statistics.
+
+Written by Idlan bin Hafiz
