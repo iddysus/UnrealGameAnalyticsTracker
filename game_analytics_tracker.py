@@ -4,6 +4,8 @@ import json
 import matplotlib.pyplot as plt
 import time
 
+# Written by Idlan bin Hafiz
+
 # Simulated player data (mock for now)
 player_data = {
     "time_played": [],  # Minutes played each session
